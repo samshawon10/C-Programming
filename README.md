@@ -1,4 +1,4 @@
 # C-Programming
 C-language.
 <br>
-Author - Sam Shawon
+Author - Sam Sabbir
